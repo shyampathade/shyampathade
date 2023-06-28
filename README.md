@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shyam Pathade</h1>
+<h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate full-Stack Developer from India</h3>
 
 - 🔭 I’m currently working on [#project](project.netlify.app)
